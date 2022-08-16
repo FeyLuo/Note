@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "89fba3a61a38b43e",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa8793ff4aec6e7e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "myconfig/nvim.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb4e8e6fc8fcf02f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e3b5b97d46b90ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e27146bf2c81c778",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b382e963e37541f3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1e78eb8a9d4aa275",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "463b77fbf8db1b33",
+    "type": "split",
+    "children": [
+      {
+        "id": "0be4f4288b3811c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9aa4613351b55cf5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "myconfig/nvim.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e24ebea01e74280d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "myconfig/nvim.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2461f848bda28363",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6717ff918739f05f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "myconfig/nvim.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fa8793ff4aec6e7e",
+  "lastOpenFiles": [
+    "README.md",
+    "Untitled.md"
+  ]
+}
